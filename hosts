@@ -9,6 +9,12 @@
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
 
+# to solve sublime text ipv6
+50.116.34.243 sublime.wbond.net
+# a solution to cancel sublime update check
+127.0.0.1 sublimetext.com
+127.0.0.1 www.sublimetext.com
+
 # Modified hosts start
 
 # Armorgames Start
