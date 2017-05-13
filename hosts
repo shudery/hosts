@@ -15,6 +15,9 @@
 127.0.0.1 sublimetext.com
 127.0.0.1 www.sublimetext.com
 
+# block autoUpdate xunlei
+127.0.0.1 liveupdate.mac.sandai.net
+
 # Modified hosts start
 
 # Armorgames Start
